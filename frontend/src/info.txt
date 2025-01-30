@@ -1,0 +1,9 @@
+Folder Strcture
+src/
+│── components/     # Reusable components like Header, Footer, ProductCard
+│── pages/          # Pages like Home, ProductDetails, Cart
+│── context/        # Context for global state (e.g., cart, auth)
+│── services/       # API calls (axios setup here)
+│── styles/         # Centralized styles (CSS/SCSS files)
+│── App.js          # Root component
+│── index.js        # Entry point
